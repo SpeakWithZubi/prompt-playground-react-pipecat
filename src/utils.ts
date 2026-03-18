@@ -45,7 +45,7 @@ export function getStringArgument(
 
 export function resolveStartUrl(rawUrl?: string): string {
   const url = rawUrl?.trim();
-  if (!url) return '/start';
+  if (!url) return '/api/start';
   if (/\/start\/?$/i.test(url)) return url;
   return `${url.replace(/\/+$/, '')}/start`;
 }
