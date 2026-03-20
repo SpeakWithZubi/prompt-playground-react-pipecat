@@ -1,0 +1,55 @@
+{
+  "hash": "5a9f3b88",
+  "configHash": "546ba3ce",
+  "lockfileHash": "a9886bd7",
+  "browserHash": "8b2ea7dd",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "63a3f581",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "829bf5cc",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "28c694af",
+      "needsInterop": true
+    },
+    "@pipecat-ai/client-js": {
+      "src": "../../node_modules/@pipecat-ai/client-js/dist/index.module.js",
+      "file": "@pipecat-ai_client-js.js",
+      "fileHash": "7a1bb436",
+      "needsInterop": false
+    },
+    "@pipecat-ai/client-react": {
+      "src": "../../node_modules/@pipecat-ai/client-react/dist/index.module.js",
+      "file": "@pipecat-ai_client-react.js",
+      "fileHash": "8c48a6e5",
+      "needsInterop": false
+    },
+    "@pipecat-ai/daily-transport": {
+      "src": "../../node_modules/@pipecat-ai/daily-transport/dist/index.module.js",
+      "file": "@pipecat-ai_daily-transport.js",
+      "fileHash": "3a763887",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-NO6UH6X3": {
+      "file": "chunk-NO6UH6X3.js"
+    },
+    "chunk-7KXNQTIL": {
+      "file": "chunk-7KXNQTIL.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
